@@ -1,5 +1,5 @@
 # Youtube-API-Analyzer
-Project code on creating data analysis portfolio project with Youtube API
+[Project code](youtube_videos_analyzer_EDA.ipynb) on creating data analysis portfolio project with Youtube API
 
 ## Aims and Objectives
 
