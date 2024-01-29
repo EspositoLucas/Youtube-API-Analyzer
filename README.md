@@ -1,5 +1,7 @@
 # Youtube-API-Analyzer
-[Project code](youtube_videos_analyzer_EDA.ipynb) on creating data analysis portfolio project with Youtube API
+[Project code](youtube_videos_analyzer_EDA.ipynb) using the YouTube API to analyze information about channels
+related to the world of information technology (IT) in order to obtain valuable information
+needed by a future content creator who wants to start a new channel on the platform
 
 ## Aims and Objectives
 
