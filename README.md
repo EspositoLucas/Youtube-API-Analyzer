@@ -48,6 +48,18 @@ According to [Youtube API's guide](https://developers.google.com/youtube/v3/gett
 
 Since all data requested from Youtube API is public data (which everyone on the Internet can see on Youtube), there is no particular privacy issues as far as I am concerned. In addition, the data is obtained only for research purposes in this case and not for any commercial interests
 
+## Ideas for Future Research
+
+To expand and build on this research project, one can:
+
+- Expand the dataset to also smaller channels in Programming/Software Engineering niche
+
+- Do sentiment analysis on the comments and find out which videos get more positive comments and which videos get less positive comments
+
+- Do market research by analyzing questions in the comment threads and identifying common questions/ market gaps which could potentially filled
+
+- Conduct this research for other niches (e.g. vlogs or gaming channels), to compare different niches with each other to see the different patterns in viewership and video characteristics
+
 ## References/ Resources used:
 
 [1] Youtube API. Avaliable at https://developers.google.com/youtube/v3
